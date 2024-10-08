@@ -1,0 +1,3 @@
+﻿  DataAndFuncClass.cpp
+E:\大学学习\c++程序设计\Tree_Test\Tree_Test_1\DataAndFuncClass.cpp(166,1): warning C4715: “searchTreeNode”: 不是所有的控件路径都返回值
+  Tree_Test_1.vcxproj -> E:\大学学习\c++程序设计\Tree_Test\Tree_Test_1\x64\Debug\Tree_Test_1.exe

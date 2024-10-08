@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\u5927\u5B66\u5B66\u4E60\\c\u002B\u002B\u7A0B\u5E8F\u8BBE\u8BA1\\Tree_Test\\Tree_Test_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E47C754-35F4-461A-8A29-B6CB444CD02B}|Tree_Test_1.vcxproj|E:\\\u5927\u5B66\u5B66\u4E60\\c\u002B\u002B\u7A0B\u5E8F\u8BBE\u8BA1\\Tree_Test\\Tree_Test_1\\DataAndFuncClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E47C754-35F4-461A-8A29-B6CB444CD02B}|Tree_Test_1.vcxproj|solutionrelative:DataAndFuncClass.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E47C754-35F4-461A-8A29-B6CB444CD02B}|Tree_Test_1.vcxproj|E:\\\u5927\u5B66\u5B66\u4E60\\c\u002B\u002B\u7A0B\u5E8F\u8BBE\u8BA1\\Tree_Test\\Tree_Test_1\\brTree_Test_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5E47C754-35F4-461A-8A29-B6CB444CD02B}|Tree_Test_1.vcxproj|solutionrelative:brTree_Test_1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAndFuncClass.cpp",
+              "DocumentMoniker": "E:\\\u5927\u5B66\u5B66\u4E60\\c\u002B\u002B\u7A0B\u5E8F\u8BBE\u8BA1\\Tree_Test\\Tree_Test_1\\DataAndFuncClass.cpp",
+              "RelativeDocumentMoniker": "DataAndFuncClass.cpp",
+              "ToolTip": "E:\\\u5927\u5B66\u5B66\u4E60\\c\u002B\u002B\u7A0B\u5E8F\u8BBE\u8BA1\\Tree_Test\\Tree_Test_1\\DataAndFuncClass.cpp",
+              "RelativeToolTip": "DataAndFuncClass.cpp",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAAAKwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T05:23:35.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "brTree_Test_1.cpp",
+              "DocumentMoniker": "E:\\\u5927\u5B66\u5B66\u4E60\\c\u002B\u002B\u7A0B\u5E8F\u8BBE\u8BA1\\Tree_Test\\Tree_Test_1\\brTree_Test_1.cpp",
+              "RelativeDocumentMoniker": "brTree_Test_1.cpp",
+              "ToolTip": "E:\\\u5927\u5B66\u5B66\u4E60\\c\u002B\u002B\u7A0B\u5E8F\u8BBE\u8BA1\\Tree_Test\\Tree_Test_1\\brTree_Test_1.cpp",
+              "RelativeToolTip": "brTree_Test_1.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T04:43:05.661Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
